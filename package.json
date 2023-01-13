@@ -1,0 +1,28 @@
+{
+  "name": "curso-ecmascript",
+  "version": "1.0.0",
+  "description": "Este es un curso para conocer las actualizaciones de JavaScript según su estandard ECMAScript",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/cesarforall/curso-ecmascript.git"
+  },
+  "keywords": [
+    "javascript",
+    "ecmascript",
+    "web",
+    "development"
+  ],
+  "author": "Cesar Almeida <cesaralmeida89@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/cesarforall/curso-ecmascript/issues"
+  },
+  "homepage": "https://github.com/cesarforall/curso-ecmascript#readme",
+  "dependencies": {
+    "npm": "^9.3.0"
+  }
+}
