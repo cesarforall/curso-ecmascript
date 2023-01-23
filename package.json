@@ -24,5 +24,6 @@
   "homepage": "https://github.com/cesarforall/curso-ecmascript#readme",
   "dependencies": {
     "npm": "^9.3.0"
-  }
+  },
+  "type": "module"
 }
