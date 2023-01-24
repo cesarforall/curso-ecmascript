@@ -6,7 +6,7 @@ function* iterate(array) {
 	for (let value of array) {
 		yield value;
 	}
-    return 'Hello';
+	return 'Hello';
 }
 
 const it = iterate(['César', 'Almeida', 'Reyes', 'Ulises', 'Jennifer']);
@@ -18,4 +18,7 @@ console.log(it.next().value);
 console.log(it.next().value);
 console.log(it.next().value);
 
-console.log(it.throw());
+// console.log(it.throw());
+// Challenge
+let randomString = Math.random().toString(36).substring(5);
+console.log(randomString);
