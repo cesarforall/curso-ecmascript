@@ -23,6 +23,7 @@
   },
   "homepage": "https://github.com/cesarforall/curso-ecmascript#readme",
   "dependencies": {
+    "node-fetch": "^3.3.0",
     "npm": "^9.3.0"
   },
   "type": "module"
